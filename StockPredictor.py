@@ -1,3 +1,13 @@
+""" Stock Price Predictor Using Machine Learning In Python"""
+        """Inro to Problem Solving in Python 2024"""
+            """Created by: Beckett Karow"""
+
+
+
+
+
+
+
 import yfinance as yf     #imports stock data from yahoo finance
 import matplotlib.pyplot as plt     #imports matplot lib to visualize stock prediction data
 from sklearn import linear_model
