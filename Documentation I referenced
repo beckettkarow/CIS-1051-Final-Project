@@ -1,0 +1,6 @@
+Documentation I referenced when doing this project:
+
+https://matplotlib.org/stable/
+https://devdocs.io/scikit_learn/modules/generated/sklearn.linear_model.linearregression#sklearn.linear_model.LinearRegression
+https://scikit-learn.org/stable/user_guide.html
+https://pypi.org/project/yfinance/
